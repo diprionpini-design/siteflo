@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+# ⚠️ Ce robots.txt bloque l'indexation par les moteurs de recherche.
+# Il est volontairement restrictif car ce site est une version de TEST
+# hébergée temporairement (ex: GitHub Pages) avant la mise en ligne définitive.
+# Pensez à le remplacer par un robots.txt "ouvert" lors du passage en production
+# sur le vrai nom de domaine reynolds-avocat.fr.
