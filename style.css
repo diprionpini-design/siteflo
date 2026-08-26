@@ -416,8 +416,7 @@ section { padding: 56px 0; }
   display: flex; align-items: center; justify-content: center; gap: 5px;
 }
 .mobile-call-bar a svg { width: 14px; height: 14px; flex-shrink: 0; }
-.mobile-call-bar .call { background: var(--gold); color: var(--navy-darker); }
-.mobile-call-bar .mail { color: var(--white); }
+.mobile-call-bar .mail { background: var(--navy-darker); color: var(--white); }
 @media (min-width: 960px) { .mobile-call-bar { display: none; } }
 body { padding-bottom: 34px; }
 @media (min-width: 960px) { body { padding-bottom: 0; } }
