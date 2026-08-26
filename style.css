@@ -92,6 +92,7 @@ p { margin: 0 0 1em; color: var(--ink); }
   cursor: pointer;
   transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease, color 0.15s ease;
 }
+.btn svg { width: 18px; height: 18px; flex-shrink: 0; }
 .btn-primary { background: var(--gold); color: var(--navy-darker); }
 .btn-primary:hover { background: var(--gold-light); transform: translateY(-1px); }
 .btn-outline { border-color: rgba(255,255,255,0.6); color: var(--white); }
